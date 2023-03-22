@@ -1,17 +1,8 @@
 //Program for creating diffrent filters(functions)
 //Author: HRITHIK KANOJE
-//CLASS: CS5330 Pattern Recog & computer vision
-//Prof: Bruce maxwell
+
 
 I worked on UBUNTU os with Make,terminal and subline editor.
-
-In case you are not able to run the cmake command i am submitting my executable file which can be run directly by ./imgDisplay <img path> and ./vidDisplay
-
-I am taking one day of travel time.
-
-###########################################################################################
-I submitted my project 1 on 28th Jan (submission date: 27 Jan) using 1 travel day. Next day when I checked the Grade scope, I realized that I forgot to upload report and Cmakelist so uploaded that, but I didn't know that this would change my whole submission date and consider as resubmission. I emailed the prof. bruce and he said that's fine just add this in your readme file and resubmit.
-###########################################################################################
 
 -------------------------------------------------------------------------------------------
 
