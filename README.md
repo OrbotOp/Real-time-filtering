@@ -1,6 +1,11 @@
 # Real-time-filtering
-
-This project contains two C++ programs, imgDisplay and vidDisplay, that implement different image and video filters.
+## Project Description
+This project focuses on utilizing C++ and OpenCV to read, display, manipulate, and write images and videos. The main objectives include implementing functions to:
+- Read images from a local file or video streams from a live camera.
+- Display live video.
+- Apply various filters and effects to the live video.
+- Save images or videos.
+- The project also involves getting familiar with OpenCV's built-in functions and understanding how to access and modify images by directly accessing pixels.
 
 # Getting Started
 
@@ -63,3 +68,12 @@ When you run the vidDisplay program, a live video stream will be displayed. You 
     f: Apply a negative filter
     
   If you press any of these keys again, the filter will be removed and the live video stream will continue.
+
+## Reflection
+This project provided an opportunity to become familiar with C++ and OpenCV while gaining practical experience in image and video manipulation. It involved implementing various filters and effects, understanding pixel-level operations, and handling different image frame types. Additionally, it allowed for experimentation with different techniques to achieve desired results, such as adjusting brightness, applying filters, and saving video sequences with proper frame replication. Overall, the project enhanced understanding of computer vision concepts and improved proficiency in C++ programming and OpenCV usage.
+
+### Acknowledgments
+- OpenCV Tutorials: https://docs.opencv.org/4.5.1/index.html
+- Learn OpenCV: https://learnopencv.com/read-write-and-display-a-video-using-opencv-cpp-python/
+- How to use Chrono library: https://www.techiedelight.com/measure-elapsed-time-program-chrono-library/
+- Change brightness using OpenCV: https://www.opencv-srf.com/2018/02/change-brightness-of-images-and-videos.html
